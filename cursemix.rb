@@ -9,3 +9,6 @@ def random_curse(prefix, suffix)
   prefix.sample.capitalize + " " + suffix.sample.capitalize
 end
 
+get '/' do
+  haml :index, :locals => {:curse => random_curse(prefix, suffix)}
+end
