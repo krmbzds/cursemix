@@ -30,10 +30,6 @@ Happy?
 
 ## O hai there :space_invader:
 
-:point_right: I just heard about this thing called __javascript__, like wtf man.  
-:point_right: Anyhow, I rewrote this extravagant crap [over here](https://github.com/krmbzds/cursemix/tree/javascript), all files static.  
-:point_right: Mother----ingly, I created a branch for github pages too, [you got served](https://github.com/krmbzds/cursemix/tree/gh-pages).  
-:point_right: You can check it out over [There](http://uncyclopedia.wikia.com/wiki/There). *J.K. Lolling*, ~~it's leviosa not leviosa~~ (find it below).
+I recently learned javascript and rewrote CurseMix. You can find the static version on the ```javascript``` branch. I also created a ```gh-pages``` branch so the project is now served on Github Pages too (find it below).
   
-  
-[ :love_letter: Complements from the Author :love_letter: ](http://krmbzds.github.io/cursemix)
+[ :love_letter: Complimets from the Author :love_letter: ](http://krmbzds.github.io/cursemix)
